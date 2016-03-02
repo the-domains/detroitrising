@@ -1,0 +1,28 @@
+name: detroitrising
+favicon: null
+layout_spectrum: 0.6560217218939215
+typography_spectrum: 0.7370717828162014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4902872461825609
+  lightness: 0.09472254617139697
+  saturation: 0.7963638275396079
+  rhythmicContrast: 0.8432706038001925
+purpose: []
